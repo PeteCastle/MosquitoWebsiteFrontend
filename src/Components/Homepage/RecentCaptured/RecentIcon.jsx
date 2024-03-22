@@ -1,5 +1,5 @@
 import React from "react";
-import recentIcon from "../Assets/recenticon.png";
+import recentIcon from "../../Assets/recenticon.png";
 
 export const RecentIcon = () => {
     return (

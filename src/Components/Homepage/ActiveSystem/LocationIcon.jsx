@@ -1,5 +1,5 @@
 import React from "react";
-import locationIcon from "../Assets/locationicon.png";
+import locationIcon from "../../Assets/locationicon.png";
 
 export const LocationIcon = () => {
     return (

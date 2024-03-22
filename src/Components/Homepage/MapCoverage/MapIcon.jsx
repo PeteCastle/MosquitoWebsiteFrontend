@@ -1,5 +1,5 @@
 import React from "react";
-import mapIcon from "../Assets/mapicon.png";
+import mapIcon from "../../Assets/mapicon.png";
 
 export const MapIcon = () => {
     return (
