@@ -2,7 +2,7 @@ import React from "react";
 import "./DashboardPage";
 import { MainLogo2 } from "./MainLogo2";
 
-const Dashboard = () => {
+const DashboardPage = () => {
     return (
         <div>
             <MainLogo2 />
@@ -10,4 +10,4 @@ const Dashboard = () => {
     )
 }
 
-export default Dashboard;
+export default DashboardPage;
