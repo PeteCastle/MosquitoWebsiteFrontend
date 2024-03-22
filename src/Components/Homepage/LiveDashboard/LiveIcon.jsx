@@ -1,5 +1,5 @@
 import React from "react";
-import liveIcon from "../Assets/liveicon.png";
+import liveIcon from "../../Assets/liveicon.png";
 
 export const LiveIcon = () => {
     return (

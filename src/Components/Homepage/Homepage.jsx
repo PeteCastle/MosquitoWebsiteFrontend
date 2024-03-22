@@ -1,7 +1,7 @@
 import React from "react";
 import "./Homepage.css";
 import { MainLogo } from "./MainLogo"; 
-import { DashboardThumbnail } from "../LiveDashboard/LiveDashboard";
+import { DashboardThumbnail } from "./LiveDashboard/LiveDashboard";
 import { SystemAboutThumbnail } from "../SystemAbout/SystemAbout";
 import { RecentCapturedThumbnail } from "../RecentCaptured/RecentCaptured"; 
 import { ActiveSystemThumbnail } from "../ActiveSystem/ActiveSystem";   
